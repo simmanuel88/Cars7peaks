@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Cars7peaks-Cars7peaksUITests/Pods-Cars7peaks-Cars7peaksUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/AlamofireURLCache5/AlamofireURLCache5.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
